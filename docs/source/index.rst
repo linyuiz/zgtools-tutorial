@@ -26,6 +26,9 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
-   usage
-   api
+   installation/index
+   quick_start/index
+   usage/index
